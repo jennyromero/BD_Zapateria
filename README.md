@@ -8,3 +8,5 @@
 ## Creacion tabla Articulo
 ![articulo](articulo.png)
 
+## Relación uno a muchos
+![relacion](relacion.png)
